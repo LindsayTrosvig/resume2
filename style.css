@@ -1,0 +1,8 @@
+* {
+  font-family:sans-serif
+}
+p {
+  color:red;
+  direction: rtl;
+  font-size: 25px;
+}
